@@ -40,3 +40,11 @@
 ## GitBook Docs
 - **GitBook Documentation** - https://gitbook.com/docs  
   Short desc: AI-native documentation platform with Git sync, beautiful publishing, and intelligent search/assistant features.
+
+## Cloudflare Docs
+- **Cloudflare Developer Documentation** - https://developers.cloudflare.com/  
+  Short desc: Comprehensive developer platform docs for CDN, Workers, security, DNS, and edge computing.
+
+## Claude Code Docs
+- **Claude Code Documentation** - https://code.claude.com/docs  
+  Short desc: Anthropic's agentic coding assistant in the terminal — setup, usage, and advanced features for codebase interaction.
