@@ -28,3 +28,15 @@
 ## Enhance.dev Docs
 - **Enhance Documentation** - https://enhance.dev/docs/  
   Short desc: HTML-first full-stack web framework for standards-based, performant multi-page applications.
+
+## Stripe Docs
+- **Stripe Documentation** - https://docs.stripe.com/  
+  Short desc: Industry-leading interactive API docs with personalized code examples, test keys, and excellent developer experience.
+
+## Vercel Docs
+- **Vercel Documentation** - https://vercel.com/docs  
+  Short desc: Comprehensive guides for deploying, previewing, and scaling frontend applications with Git integration.
+
+## GitBook Docs
+- **GitBook Documentation** - https://gitbook.com/docs  
+  Short desc: AI-native documentation platform with Git sync, beautiful publishing, and intelligent search/assistant features.
