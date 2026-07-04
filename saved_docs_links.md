@@ -3,6 +3,27 @@
 > **Consolidated file** — All links + multiple groupings + new suggestions in one place.  
 > The previous `saved_docs_links_grouped.md` has been merged here and can be deleted.
 
+> **📸 Screenshots added** for key documentation sites below. Images are saved in the `searched_images/` folder. Open this Markdown file locally or in Obsidian to view the previews.
+
+---
+
+## Visual Previews of Key Documentation Sites
+
+### Laravel Documentation
+![Laravel Documentation](/home/workdir/artifacts/searched_images/h9ExN.jpg)
+
+### Tailwind CSS Documentation
+![Tailwind CSS Documentation](/home/workdir/artifacts/searched_images/7t2Ia.jpg)
+
+### Stripe Documentation
+![Stripe Documentation](/home/workdir/artifacts/searched_images/7CdoB.jpg)
+
+### Vercel Documentation
+![Vercel Documentation](/home/workdir/artifacts/searched_images/I9ARw.jpg)
+
+### GitBook Documentation Platform
+![GitBook Documentation](/home/workdir/artifacts/searched_images/iJXui.jpg)
+
 ---
 
 ## 1. By Technology Stack
