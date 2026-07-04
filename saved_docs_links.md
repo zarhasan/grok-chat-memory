@@ -1,58 +1,177 @@
-# Saved Documentation Links (e-HTML & HTML-focused)
+# Saved Documentation Links
 
-## e-HTML Docs
+> **Consolidated file** — All links + multiple groupings + new suggestions in one place.  
+> The previous `saved_docs_links_grouped.md` has been merged here and can be deleted.
+
+---
+
+## 1. By Technology Stack
+
+### PHP
+- **Laravel Documentation** - https://laravel.com/docs  
+  Official comprehensive docs for the PHP web framework — installation, routing, Eloquent, Blade, and full-stack features.
+
+### JavaScript / Frontend
+- **Tailwind CSS Documentation** - https://tailwindcss.com/docs  
+  Official utility-first CSS framework docs with excellent examples, installation guides, and customization.
+
+- **Enhance Documentation** - https://enhance.dev/docs  
+  HTML-first full-stack web framework for standards-based, performant multi-page applications.
+
+### HTML & Web Standards
 - **EHTML Documentation** - https://e-html.org/html/documentation.html  
-  Short desc: Custom elements and extended HTML library for modular pages without build tools.
+  Custom elements and extended HTML library for modular pages without build tools.
 
-## Top HTML Documentation Sites
 - **MDN Web Docs (HTML)** - https://developer.mozilla.org/en-US/docs/Web/HTML  
-  Short desc: The most authoritative and comprehensive reference for HTML by Mozilla. Gold standard.
+  The most authoritative and comprehensive reference for HTML by Mozilla. Gold standard.
 
 - **WHATWG HTML Living Standard** - https://html.spec.whatwg.org/  
-  Short desc: The official living specification for HTML.
+  The official living specification for HTML.
 
 - **W3Schools HTML** - https://www.w3schools.com/html/  
-  Short desc: Beginner-friendly tutorials and references.
+  Beginner-friendly tutorials and references.
 
 - **DevDocs** - https://devdocs.io/  
-  Short desc: Offline-capable aggregator for HTML + many other docs.
+  Offline-capable aggregator for HTML + many other docs.
 
-## Tailwind CSS Docs
-- **Tailwind CSS Documentation** - https://tailwindcss.com/docs  
-  Short desc: Official utility-first CSS framework docs with excellent examples, installation guides, and customization.
-
-## OpenCode Docs
-- **OpenCode Documentation** - https://opencode.ai/docs/  
-  Short desc: Open-source AI coding agent (terminal + desktop) with setup, providers, agents, and configuration guides.
-
-## Enhance.dev Docs
-- **Enhance Documentation** - https://enhance.dev/docs/  
-  Short desc: HTML-first full-stack web framework for standards-based, performant multi-page applications.
-
-## Stripe Docs
-- **Stripe Documentation** - https://docs.stripe.com/  
-  Short desc: Industry-leading interactive API docs with personalized code examples, test keys, and excellent developer experience.
-
-## Vercel Docs
-- **Vercel Documentation** - https://vercel.com/docs  
-  Short desc: Comprehensive guides for deploying, previewing, and scaling frontend applications with Git integration.
-
-## GitBook Docs
-- **GitBook Documentation** - https://gitbook.com/docs  
-  Short desc: AI-native documentation platform with Git sync, beautiful publishing, and intelligent search/assistant features.
-
-## Cloudflare Docs
+### Cloud & Infrastructure
 - **Cloudflare Developer Documentation** - https://developers.cloudflare.com/  
-  Short desc: Comprehensive developer platform docs for CDN, Workers, security, DNS, and edge computing.
+  Comprehensive developer platform docs for CDN, Workers, security, DNS, and edge computing.
 
-## Claude Code Docs
-- **Claude Code Documentation** - https://code.claude.com/docs  
-  Short desc: Anthropic's agentic coding assistant in the terminal — setup, usage, and advanced features for codebase interaction.
+- **Vercel Documentation** - https://vercel.com/docs  
+  Comprehensive guides for deploying, previewing, and scaling frontend applications with Git integration.
 
-## Coinbase Docs
+---
+
+## 2. By Purpose / Type
+
+### Official Framework & Language Docs
+- Laravel
+- Tailwind CSS
+- Enhance.dev
+- EHTML
+- HTML references (MDN, WHATWG, W3Schools)
+
+### Documentation Platforms & Tools
+- **GitBook Documentation** - https://gitbook.com/docs  
+  AI-native documentation platform with Git sync, beautiful publishing, and intelligent search/assistant features.
+
+### Developer Platforms & APIs
+- **Stripe Documentation** - https://docs.stripe.com/  
+  Industry-leading interactive API docs with personalized code examples, test keys, and excellent developer experience.
+
 - **Coinbase Developer Documentation (CDP)** - https://docs.cdp.coinbase.com/  
-  Short desc: Official docs for Coinbase Developer Platform — APIs, SDKs, onchain apps, and AI-native interactive guides.
+  Official docs for Coinbase Developer Platform — APIs, SDKs, onchain apps, and AI-native interactive guides.
 
-## Laravel Docs
-- **Laravel Documentation** - https://laravel.com/docs  
-  Short desc: Official comprehensive docs for the PHP web framework — installation, routing, Eloquent, Blade, and full-stack features.
+- **Vercel Documentation**
+- **Cloudflare Developer Documentation**
+
+### AI Coding Agents & Tools
+- **OpenCode Documentation** - https://opencode.ai/docs/  
+  Open-source AI coding agent (terminal + desktop) with setup, providers, agents, and configuration guides.
+
+- **Claude Code Documentation** - https://code.claude.com/docs  
+  Anthropic's agentic coding assistant in the terminal — setup, usage, and advanced features for codebase interaction.
+
+---
+
+## 3. By Industry / Domain
+
+### Fintech & Payments
+- Stripe
+- Coinbase (CDP)
+
+### Web Development & Hosting
+- Laravel (PHP)
+- Tailwind CSS
+- Vercel
+- Cloudflare
+- Enhance.dev
+- GitBook (for docs)
+
+### AI & Developer Productivity
+- OpenCode
+- Claude Code
+- GitBook (AI features)
+
+### Web Standards & Frontend
+- All HTML-related + Tailwind + Enhance
+
+---
+
+## 4. Quick Reference: Most Useful for You (Khizar)
+
+Based on your background (WordPress/PHP dev, trading, self-hosting, UI work):
+
+**High Priority**
+- Laravel Docs (PHP ecosystem)
+- Tailwind CSS (modern UI/styling)
+- Cloudflare (self-hosting, performance, tunnels)
+- Vercel (deployment options)
+- GitBook (for your own docs/knowledge base)
+- Stripe (if doing payments/trading integrations)
+
+**AI Tools**
+- Claude Code
+- OpenCode
+
+**Reference**
+- MDN + DevDocs (daily quick lookups)
+- Enhance.dev (interesting HTML-first approach)
+
+---
+
+## 5. Original Flat List (All Links)
+
+- **EHTML Documentation** - https://e-html.org/html/documentation.html
+- **MDN Web Docs (HTML)** - https://developer.mozilla.org/en-US/docs/Web/HTML
+- **WHATWG HTML Living Standard** - https://html.spec.whatwg.org/
+- **W3Schools HTML** - https://www.w3schools.com/html/
+- **DevDocs** - https://devdocs.io/
+- **Tailwind CSS Documentation** - https://tailwindcss.com/docs
+- **OpenCode Documentation** - https://opencode.ai/docs/
+- **Enhance Documentation** - https://enhance.dev/docs/
+- **Stripe Documentation** - https://docs.stripe.com/
+- **Vercel Documentation** - https://vercel.com/docs
+- **GitBook Documentation** - https://gitbook.com/docs
+- **Cloudflare Developer Documentation** - https://developers.cloudflare.com/
+- **Claude Code Documentation** - https://code.claude.com/docs
+- **Coinbase Developer Documentation (CDP)** - https://docs.cdp.coinbase.com/
+- **Laravel Documentation** - https://laravel.com/docs
+
+---
+
+## 6. Suggested Similar High-Quality Doc Sites (New)
+
+### Documentation Platforms (like GitBook)
+- **Mintlify** — https://mintlify.com/  
+  Beautiful, AI-native documentation platform popular for modern SaaS and developer portals.
+
+- **ReadMe** — https://readme.com/  
+  Strong focus on interactive API documentation and developer hubs.
+
+- **Docusaurus** — https://docusaurus.io/  
+  Meta’s open-source documentation framework. Highly customizable.
+
+### Excellent API / Developer Experience Docs
+- **Twilio Documentation** — https://www.twilio.com/docs  
+  Consistently praised for clarity and multi-language code samples.
+
+- **Plaid Documentation** — https://plaid.com/docs/  
+  Clean financial API docs with strong examples.
+
+- **GitHub REST API Documentation** — https://docs.github.com/en/rest  
+  Comprehensive and well-organized.
+
+### PHP Ecosystem
+- **Symfony Documentation** — https://symfony.com/doc/current/index.html  
+  Excellent companion to Laravel.
+
+### Bonus Unique / Visual
+- **Mappedin Developer Portal** — https://developer.mappedin.com/  
+  Highly visual indoor mapping API docs with great sandboxes.
+
+---
+
+*Last updated: July 2026*  
+*Single consolidated file for Obsidian. Feel free to add tags like #laravel #fintech #ai-tools.*
