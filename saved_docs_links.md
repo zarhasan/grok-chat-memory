@@ -16,3 +16,15 @@
 
 - **DevDocs** - https://devdocs.io/  
   Short desc: Offline-capable aggregator for HTML + many other docs.
+
+## Tailwind CSS Docs
+- **Tailwind CSS Documentation** - https://tailwindcss.com/docs  
+  Short desc: Official utility-first CSS framework docs with excellent examples, installation guides, and customization.
+
+## OpenCode Docs
+- **OpenCode Documentation** - https://opencode.ai/docs/  
+  Short desc: Open-source AI coding agent (terminal + desktop) with setup, providers, agents, and configuration guides.
+
+## Enhance.dev Docs
+- **Enhance Documentation** - https://enhance.dev/docs/  
+  Short desc: HTML-first full-stack web framework for standards-based, performant multi-page applications.
