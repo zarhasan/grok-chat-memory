@@ -125,5 +125,39 @@ Based on your background (WordPress/PHP dev, trading, self-hosting, UI work):
 
 ---
 
+## 6. Suggested Similar High-Quality Doc Sites (New Additions)
+
+Based on the current collection, here are excellent similar documentation sites worth adding:
+
+### Documentation Platforms (like GitBook)
+- **Mintlify** — https://mintlify.com/  
+  Beautiful, AI-native documentation platform popular for modern SaaS and developer portals. Excellent design and fast setup.
+
+- **ReadMe** — https://readme.com/  
+  Strong focus on interactive API documentation and developer hubs with great onboarding experiences.
+
+- **Docusaurus** — https://docusaurus.io/  
+  Meta’s open-source documentation framework. Highly customizable, React-based, great for open-source projects and static sites.
+
+### Excellent API / Developer Experience Docs (like Stripe & Coinbase)
+- **Twilio Documentation** — https://www.twilio.com/docs  
+  Consistently praised for clarity, code samples across languages, and step-by-step guides. One of the best API doc experiences.
+
+- **Plaid Documentation** — https://plaid.com/docs/  
+  Clean, well-structured financial API docs with strong examples and sandbox focus.
+
+- **GitHub REST API Documentation** — https://docs.github.com/en/rest  
+  Comprehensive, well-organized, and developer-friendly reference with excellent navigation.
+
+### PHP Ecosystem (alongside Laravel)
+- **Symfony Documentation** — https://symfony.com/doc/current/index.html  
+  Excellent companion or alternative to Laravel. Very thorough, component-based approach with great guides.
+
+### Bonus Unique / Visual Ones
+- **Mappedin Developer Portal** — https://developer.mappedin.com/  
+  Highly visual and innovative indoor mapping API docs with excellent sandboxes and playgrounds.
+
+---
+
 *Last updated: July 2026*  
 *Generated for Obsidian compatibility — feel free to add tags like #laravel #tailwind #fintech etc. in your vault.*
