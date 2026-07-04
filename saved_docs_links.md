@@ -48,3 +48,7 @@
 ## Claude Code Docs
 - **Claude Code Documentation** - https://code.claude.com/docs  
   Short desc: Anthropic's agentic coding assistant in the terminal — setup, usage, and advanced features for codebase interaction.
+
+## Coinbase Docs
+- **Coinbase Developer Documentation (CDP)** - https://docs.cdp.coinbase.com/  
+  Short desc: Official docs for Coinbase Developer Platform — APIs, SDKs, onchain apps, and AI-native interactive guides.
