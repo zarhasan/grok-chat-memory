@@ -52,3 +52,7 @@
 ## Coinbase Docs
 - **Coinbase Developer Documentation (CDP)** - https://docs.cdp.coinbase.com/  
   Short desc: Official docs for Coinbase Developer Platform — APIs, SDKs, onchain apps, and AI-native interactive guides.
+
+## Laravel Docs
+- **Laravel Documentation** - https://laravel.com/docs  
+  Short desc: Official comprehensive docs for the PHP web framework — installation, routing, Eloquent, Blade, and full-stack features.
